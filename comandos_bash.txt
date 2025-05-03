@@ -1,0 +1,6 @@
+ls --> LISTA ARQUIVOS
+CD --> move entre diretórios
+pwd --> mostra o caminho da pasta que esta
+
+cat --> exibe conteúdo do arquivo
+rm --> remove arquivo ou diretorio
