@@ -62,7 +62,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 Pessoas participantes:
 
-- Adriana Marques
+- Adriana Marques Carmello
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
