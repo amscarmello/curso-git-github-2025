@@ -19,3 +19,5 @@ git log                  --> Mostra todo o histórico de commit
 para configurar o remoto
 git remote add origin https://githuvb.com/meuusuario/curso-git-github-2025.git
 
+compare & pull request
+a main recebe as alterações da branch que recebeu a atualização
