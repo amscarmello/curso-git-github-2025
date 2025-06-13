@@ -10,6 +10,8 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
 
+entendendo os conceietos do que eu faço no dia a dia na prática.
+
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
