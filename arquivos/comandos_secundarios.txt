@@ -1,0 +1,6 @@
+este arquivo contem informações adicionais - comandos secundários 
+
+- primeiro comando
+- segundo comando
+comandos mais genéricos
+comandos estranhos

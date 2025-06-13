@@ -1,0 +1,23 @@
+git init .               --> Cria um repo na pasta atual
+git status               --> Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo     --> Adiciona arquivo para ser comitado
+git commit -m "mensagem" --> Faz commit do que estava para ser comitado
+git log                  --> Mostra todo o histórico de commit
+
+## Fluxo de trabalho
+
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. editar arquivos ou criar arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "arquivo ajuste"
+8. git status 
+9. volta para o passo 3 sempre que necessário ou precise
+
+para configurar o remoto
+git remote add origin https://githuvb.com/meuusuario/curso-git-github-2025.git
+
+compare & pull request
+a main recebe as alterações da branch que recebeu a atualização
